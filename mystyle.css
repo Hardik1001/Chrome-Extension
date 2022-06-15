@@ -1,0 +1,29 @@
+.myleft{
+    float: left;
+    margin: 10px;
+    padding: 100px 0px 0px 120px;
+}
+
+.myright{
+    float: right;
+    margin: 10px;
+    padding: 110px 120px 0px 0px;
+}
+
+body{
+    /*border: 5px solid black;*/
+    height: 300px;
+    width: 500px;
+    display: flex;
+}
+
+.mybottom{
+    clear: both;
+    text-align: center;
+    padding-top: 50px;
+}
+
+div button a{
+    color: white;
+    text-decoration: none;
+}
